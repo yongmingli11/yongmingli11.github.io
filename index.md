@@ -2,7 +2,7 @@
 
 I am a math student in NTU.
 
-I will update this website soon... :laughing:
+I will update this website soon... 
 
 
 Reference for future:
