@@ -1,6 +1,10 @@
 ## About
 
-I am a math PhD student in Texas A&M University. My research interest is in PDEs and probability. My current advisor is [Jonas Lührmann](https://www.math.tamu.edu/~luhrmann/)
+I am a math PhD student in Texas A&M University. My research interest is in PDEs and probability. My advisor is [Jonas Lührmann](https://www.math.tamu.edu/~luhrmann/).
+
+Office: Blocker 340B
+
+Email: liyo0008@tamu.edu
 
 ## Preprints
 - [Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry](https://arxiv.org/abs/2203.11371)
