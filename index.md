@@ -2,7 +2,7 @@
 
 I am a math PhD student in Texas A&M University. My research interest is in PDEs and probability. My advisor is [Jonas Lührmann](https://www.math.tamu.edu/~luhrmann/).
 
-Office: Blocker 340B
+Office: Blocker 340
 
 Email: liyo0008@tamu.edu
 
