@@ -13,7 +13,7 @@ Preprint arXiv:2203.11371, 22 pp.
 
 ## Teaching
 Texas A&M University
-- Fall 2022: Math 437 Principles of Numerical Analysis (Recitation)
+- Fall 2022: Math 437 Principles of Numerical Analysis (Recitation) [Notes](https://1drv.ms/b/s!AiuLen8IsPxCw34svD7rUHM7noNt?e=bTkkYT)
 - Fall 2022: Math 611 Introduction to Ordinary and Partial Differential Equations (Grader)
 - Fall 2021: Math 151 Engineering Mathematics I (Recitation)
 - Summer 2021: Math 409 Advanced Calculus I (Grader)
