@@ -22,3 +22,8 @@ Texas A&M University
 
 Nanyang Technological University 
 - Fall 2019: MH1802 Calculus for the sciences
+
+## Conference/Seminar Talks
+- Trends in Soliton Dynamics and Singularity Formation for Nonlinear Dispersive PDEs, 22 October 2022 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgY4mro-xUSo5BoGEYw?e=1e5quj)
+- Graduate Student Seminar, 13 October 2022
+- Dyadic Harmonic Analysis, 28 April 2022
