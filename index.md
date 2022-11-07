@@ -9,7 +9,7 @@ Email: liyo0008@tamu.edu
 ## Publications
 - [Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry](https://arxiv.org/abs/2203.11371)
 Y. Li, J. Lührmann
-Journal of Differential Equations, *344* (2023), 172-202
+Journal of Differential Equations, **344** (2023), 172-202
 
 ## Teaching
 Texas A&M University
