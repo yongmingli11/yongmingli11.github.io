@@ -6,6 +6,10 @@ Office: Blocker 620F
 
 Email: liyo0008@tamu.edu
 
+## Preprints 
+- Quantum Monte Carlo algorithm for solving Black-Scholes PDEs for high-dimensional option pricing in finance and its proof of overcoming the curse of dimensionality](https://arxiv.org/abs/2301.09241)
+Y. Li, [https://personal.ntu.edu.sg/ariel.neufeld/](A. Neufeld)\
+
 ## Publications
 - [Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry](https://arxiv.org/abs/2203.11371)
 Y. Li, J. Lührmann\
@@ -13,6 +17,8 @@ Journal of Differential Equations, **344** (2023), 172-202
 
 ## Teaching
 Texas A&M University
+- Spring 2023: Math 612 Partial Differential Equations (Grader)
+- Spring 2023: Math 409 Advanced Calculus I (Help sessions)
 - Fall 2022: Math 437 Principles of Numerical Analysis (Recitation) [Personal Notes](https://1drv.ms/b/s!AiuLen8IsPxCw34svD7rUHM7noNt?e=HSJhp0)
 - Fall 2022: Math 611 Introduction to Ordinary and Partial Differential Equations (Grader)
 - Fall 2021: Math 151 Engineering Mathematics I (Recitation)
