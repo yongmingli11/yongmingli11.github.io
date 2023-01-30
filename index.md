@@ -8,7 +8,7 @@ Email: liyo0008@tamu.edu
 
 ## Preprints 
 - [Quantum Monte Carlo algorithm for solving Black-Scholes PDEs for high-dimensional option pricing in finance and its proof of overcoming the curse of dimensionality](https://arxiv.org/abs/2301.09241)
-Y. Li, [https://personal.ntu.edu.sg/ariel.neufeld/](A. Neufeld)\
+Y. Li, [A. Neufeld](https://personal.ntu.edu.sg/ariel.neufeld/)\
 
 ## Publications
 - [Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry](https://arxiv.org/abs/2203.11371)
