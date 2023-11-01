@@ -19,6 +19,7 @@ Journal of Differential Equations, **344** (2023), 172-202
 
 ## Teaching
 Texas A&M University
+- Fall 2023: Math 150 (Recitation)
 - Spring 2023: Math 612 Partial Differential Equations (Grader)
 - Spring 2023: Math 409 Advanced Calculus I (Help sessions)
 - Fall 2022: Math 437 Principles of Numerical Analysis (Recitation) [Personal Notes](https://1drv.ms/b/s!AiuLen8IsPxCw34svD7rUHM7noNt?e=HSJhp0)
@@ -32,6 +33,8 @@ Nanyang Technological University
 - Fall 2019: MH1802 Calculus for the sciences
 
 ## Conference/Seminar Talks
+- Nonlinear PDEs Seminar, 31 October 2023 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgbET8C1SMpKISG5AVA?e=nhblUI)
+- Working seminar on microlocal analysis and nonlinear waves, 19 October 2023
 - Banach and Metric Space Geometry Working Seminar, 17 November 2022 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgZBdHDqhSxGMkUhWgg?e=qDXQc3)
 - Trends in Soliton Dynamics and Singularity Formation for Nonlinear Dispersive PDEs, 22 October 2022 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgY4mro-xUSo5BoGEYw?e=1e5quj)
 - Graduate Student Seminar, 13 October 2022
