@@ -1,6 +1,6 @@
 ## About
 
-I am a math PhD student in Texas A&M University. My research interest is in PDEs and probability. My advisor is [Jonas Lührmann](https://www.math.tamu.edu/~luhrmann/).
+I am a math PhD student at Texas A&M University. My research interest is in PDEs and probability. My advisor is [Jonas Lührmann](https://www.math.tamu.edu/~luhrmann/).
 
 Office: Blocker 620F
 
@@ -33,6 +33,8 @@ Nanyang Technological University
 - Fall 2019: MH1802 Calculus for the sciences
 
 ## Conference/Seminar Talks
+- AMS Spring Southeastern Sectional Meeting, 23 March 2024 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgb8Juluxn_JReAASuQ?e=vrxbdn)
+- Texas Analysis and Mathematical Physics Symposium, 10 February 2024
 - Nonlinear PDEs Seminar, 31 October 2023 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgbET8C1SMpKISG5AVA?e=nhblUI)
 - Working seminar on microlocal analysis and nonlinear waves, 19 October 2023
 - Banach and Metric Space Geometry Working Seminar, 17 November 2022 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgZBdHDqhSxGMkUhWgg?e=qDXQc3)
