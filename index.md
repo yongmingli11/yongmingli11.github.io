@@ -7,12 +7,13 @@ Office: Blocker 620F
 Email: liyo0008@tamu.edu
 
 ## Preprints 
-- [Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance](https://arxiv.org/abs/2307.04943)
-Y. Li
 - [Quantum Monte Carlo algorithm for solving Black-Scholes PDEs for high-dimensional option pricing in finance and its complexity analysis](https://arxiv.org/abs/2301.09241)
 J. Chen, Y. Li, [A. Neufeld](https://personal.ntu.edu.sg/ariel.neufeld/)
 
 ## Publications
+- [Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance](https://arxiv.org/abs/2307.04943)
+Y. Li\
+Calculus of Variations and Partial Differential Equations, **63** (2024), no. 206
 - [Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry](https://arxiv.org/abs/2203.11371)
 Y. Li, J. Lührmann\
 Journal of Differential Equations, **344** (2023), 172-202
