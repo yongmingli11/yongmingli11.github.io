@@ -20,6 +20,7 @@ Journal of Differential Equations, **344** (2023), 172-202
 
 ## Teaching
 Texas A&M University
+- Spring 2025: Math 140
 - Fall 2024: Math 151 Engineering Mathematics I (Recitation)
 - Fall 2023: Math 150 Functions, Trigonometry and Linear Systems (Recitation)
 - Spring 2023: Math 612 Partial Differential Equations (Grader)
@@ -36,6 +37,8 @@ Nanyang Technological University
 - Fall 2019: MH1802 Calculus for the sciences
 
 ## Conference/Seminar Talks
+- UMass Amherst Analysis Seminar, 4 November 2024
+- Brown-Yale Seminar, 2 November 2024
 - SIAM Conference Texas-Louisiana, 11-13 October 2024 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgdg48UmdOTR4HAPfSw?e=gyGrVk)
 - GIGEM, 20 April 2024
 - AMS Spring Southeastern Sectional Meeting, 23 March 2024 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgb8Juluxn_JReAASuQ?e=vrxbdn)
