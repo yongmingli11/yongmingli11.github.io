@@ -20,7 +20,7 @@ Journal of Differential Equations, **344** (2023), 172-202
 
 ## Teaching
 Texas A&M University
-- Spring 2025: Math 140
+- Spring 2025: Math 140 Mathematics for Business and Social Sciences (Instructor)
 - Fall 2024: Math 151 Engineering Mathematics I (Recitation)
 - Fall 2023: Math 150 Functions, Trigonometry and Linear Systems (Recitation)
 - Spring 2023: Math 612 Partial Differential Equations (Grader)
