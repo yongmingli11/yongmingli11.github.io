@@ -34,7 +34,7 @@ Texas A&M University
 - Spring 2021: Math 308 Differential Equations (Grader)
 
 Nanyang Technological University 
-- Fall 2019: MH1802 Calculus for the sciences
+- Fall 2019: MH1802 Calculus for the sciences (Recitation)
 
 ## Conference/Seminar Talks
 - UMass Amherst Analysis Seminar, 4 November 2024
