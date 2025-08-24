@@ -1,6 +1,6 @@
 ## About
 
-I am a math PhD student at Texas A&M University. My research interest is in PDEs and probability. My advisor is [Jonas Lührmann](https://www.math.tamu.edu/~luhrmann/).
+I am a math PhD student at Texas A&M University. My research interest is in PDEs and probability. My advisor is [Jonas Lührmann](https://www.mi.uni-koeln.de/luhrmann/).
 
 Office: Blocker 620F
 
@@ -9,17 +9,18 @@ Email: liyo0008@tamu.edu
 ## Publications & Preprints
 - [Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation under even perturbations](https://arxiv.org/abs/2408.15427)
 Y. Li, J. Lührmann
-- [Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance](https://arxiv.org/abs/2307.04943)
+- [Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance](https://link.springer.com/article/10.1007/s00526-024-02817-2)
 Y. Li\
 Calculus of Variations and Partial Differential Equations, **63** (2024), no. 206
 - [Quantum Monte Carlo algorithm for solving Black-Scholes PDEs for high-dimensional option pricing in finance and its complexity analysis](https://arxiv.org/abs/2301.09241)
 J. Chen, Y. Li, [A. Neufeld](https://personal.ntu.edu.sg/ariel.neufeld/)
-- [Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry](https://arxiv.org/abs/2203.11371)
+- [Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry](https://www.sciencedirect.com/science/article/pii/S0022039622006118)
 Y. Li, J. Lührmann\
 Journal of Differential Equations, **344** (2023), 172-202
 
 ## Teaching
 Texas A&M University
+- Fall 2025: Math 150 Functions, Trigonometry and Linear Systems (Recitation)
 - Spring 2025: Math 140 Mathematics for Business and Social Sciences (Instructor)
 - Fall 2024: Math 151 Engineering Mathematics I (Recitation)
 - Fall 2023: Math 150 Functions, Trigonometry and Linear Systems (Recitation)
@@ -37,6 +38,7 @@ Nanyang Technological University
 - Fall 2019: MH1802 Calculus for the sciences (Recitation)
 
 ## Conference/Seminar Talks
+- Texas (Partial) Differential Equations Conference, University of Houston-Downtown, 8 March 2025
 - UMass Amherst Analysis Seminar, 4 November 2024
 - Brown-Yale Seminar, 2 November 2024
 - SIAM Conference Texas-Louisiana, 11-13 October 2024 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgdg48UmdOTR4HAPfSw?e=gyGrVk)
