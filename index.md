@@ -2,11 +2,15 @@
 
 I am a math PhD student at Texas A&M University. My research interest is in PDEs and probability. My advisor is [Jonas Lührmann](https://www.mi.uni-koeln.de/luhrmann/).
 
+I am currently on the job market for postdoctoral positions.
+
 Office: Blocker 620F
 
 Email: liyo0008@tamu.edu
 
 ## Publications & Preprints
+- [Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation](https://arxiv.org/abs/2510.17763)
+Y. Li
 - [Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation under even perturbations](https://arxiv.org/abs/2408.15427)
 Y. Li, J. Lührmann
 - [Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance](https://link.springer.com/article/10.1007/s00526-024-02817-2)
