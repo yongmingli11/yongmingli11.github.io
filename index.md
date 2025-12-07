@@ -42,7 +42,9 @@ Nanyang Technological University
 - Fall 2019: MH1802 Calculus for the sciences (Recitation)
 
 ## Conference/Seminar Talks
-- Georgia Tech PDE Seminar, Online, 18 November 2025 [Slides](https://1drv.ms/b/c/42fcb0087f7a8b2b/IQAkyErHrdHVSaAN5V51Lq90Aa_i4HdpHQVSAuNPfbaLg_c?e=ypXgUl)
+- Graduate seminar on Advanced topics in PDE, University of Bonn, 12 December 2025
+- Oberseminar Mathematical Physics and PDE, University of Cologne, 9 December 2025
+- Georgia Tech PDE Seminar, Online, 18 November 2025 
 - Texas (Partial) Differential Equations Conference, University of Houston-Downtown, 8 March 2025
 - UMass Amherst Analysis Seminar, 4 November 2024
 - Brown-Yale Seminar, 2 November 2024
