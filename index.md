@@ -2,8 +2,6 @@
 
 I am a math PhD student at Texas A&M University. My research interest is in PDEs and probability. My advisor is [Jonas Lührmann](https://www.mi.uni-koeln.de/luhrmann/).
 
-I am currently on the job market for postdoctoral positions.
-
 Office: Blocker 620F
 
 Email: liyo0008@tamu.edu
@@ -24,6 +22,7 @@ Journal of Differential Equations, **344** (2023), 172-202
 
 ## Teaching
 Texas A&M University
+- Spring 2026: Math 409 Analysis on the Real line (Grader)
 - Fall 2025: Math 150 Functions, Trigonometry and Linear Systems (Recitation)
 - Spring 2025: Math 140 Mathematics for Business and Social Sciences (Instructor)
 - Fall 2024: Math 151 Engineering Mathematics I (Recitation)
@@ -42,6 +41,7 @@ Nanyang Technological University
 - Fall 2019: MH1802 Calculus for the sciences (Recitation)
 
 ## Conference/Seminar Talks
+- UC Berkeley Harmonic Analysis and Differential Equations Seminar, 10 February 2026
 - Graduate seminar on Advanced topics in PDE, University of Bonn, 12 December 2025
 - Oberseminar Mathematical Physics and PDE, University of Cologne, 9 December 2025
 - Georgia Tech PDE Seminar, Online, 18 November 2025 
