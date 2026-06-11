@@ -23,6 +23,7 @@ Journal of Differential Equations, **344** (2023), 172-202
 
 ## Teaching
 Texas A&M University
+- Summer 2026: Math 140 Mathematics for Business and Social Sciences (Instructor)
 - Spring 2026: Math 409 Analysis on the Real line (Grader)
 - Fall 2025: Math 150 Functions, Trigonometry and Linear Systems (Recitation)
 - Spring 2025: Math 140 Mathematics for Business and Social Sciences (Instructor)
