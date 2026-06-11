@@ -15,7 +15,8 @@ Y. Li, J. Lührmann
 Y. Li\
 Calculus of Variations and Partial Differential Equations, **63** (2024), no. 206
 - [Quantum Monte Carlo Algorithm for Option Pricing and Its Complexity Analysis]([https://arxiv.org/abs/2301.09241](https://doi.org/10.1111/mafi.70036)
-J. Chen, Y. Li, [A. Neufeld](https://personal.ntu.edu.sg/ariel.neufeld/)\ Mathematical Finance, (2026)
+J. Chen, Y. Li, [A. Neufeld](https://personal.ntu.edu.sg/ariel.neufeld/)\
+Mathematical Finance, (2026)
 - [Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry](https://www.sciencedirect.com/science/article/pii/S0022039622006118)
 Y. Li, J. Lührmann\
 Journal of Differential Equations, **344** (2023), 172-202
