@@ -14,8 +14,8 @@ Y. Li, J. Lührmann
 - [Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance](https://link.springer.com/article/10.1007/s00526-024-02817-2)
 Y. Li\
 Calculus of Variations and Partial Differential Equations, **63** (2024), no. 206
-- [Quantum Monte Carlo algorithm for solving Black-Scholes PDEs for high-dimensional option pricing in finance and its complexity analysis](https://arxiv.org/abs/2301.09241)
-J. Chen, Y. Li, [A. Neufeld](https://personal.ntu.edu.sg/ariel.neufeld/)
+- [Quantum Monte Carlo Algorithm for Option Pricing and Its Complexity Analysis]([https://arxiv.org/abs/2301.09241](https://doi.org/10.1111/mafi.70036)
+J. Chen, Y. Li, [A. Neufeld](https://personal.ntu.edu.sg/ariel.neufeld/)\ Mathematical Finance, (2026)
 - [Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry](https://www.sciencedirect.com/science/article/pii/S0022039622006118)
 Y. Li, J. Lührmann\
 Journal of Differential Equations, **344** (2023), 172-202
@@ -41,10 +41,13 @@ Nanyang Technological University
 - Fall 2019: MH1802 Calculus for the sciences (Recitation)
 
 ## Conference/Seminar Talks
+- Recent Developments in the Dynamics of Nonlinear PDEs, 3-7 August 2026
+- Georgia Southern University, Applied Math Physics Seminar, 23 April 2026
+- Georgia Tech, Elaine Hubbard PDE Seminar, 10 March 2026
 - UC Berkeley Harmonic Analysis and Differential Equations Seminar, 10 February 2026
 - Graduate seminar on Advanced topics in PDE, University of Bonn, 12 December 2025
 - Oberseminar Mathematical Physics and PDE, University of Cologne, 9 December 2025
-- Georgia Tech PDE Seminar, Online, 18 November 2025 
+- Georgia Tech, Elaine Hubbard PDE Seminar, 18 November 2025 
 - Texas (Partial) Differential Equations Conference, University of Houston-Downtown, 8 March 2025
 - UMass Amherst Analysis Seminar, 4 November 2024
 - Brown-Yale Seminar, 2 November 2024
