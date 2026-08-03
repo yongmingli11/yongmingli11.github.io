@@ -1,8 +1,8 @@
 ## About
 
-I am a math PhD student at Texas A&M University. My research interest is in PDEs and probability. My advisor is [Jonas Lührmann](https://www.mi.uni-koeln.de/luhrmann/).
+I am a Hale Visiting Assistant Professor at Georgia Tech since Fall 2026. My postdoc mentor is [Gong Chen](https://sites.google.com/site/cg66math). I received my Ph.D in mathematics from Texas A&M University, where my advisor was [Jonas Lührmann](https://www.mi.uni-koeln.de/luhrmann/).
 
-Office: Blocker 620F
+My research interests are in Partial Differential Equations and Probability Theory.
 
 Email: liyo0008@tamu.edu
 
@@ -10,18 +10,22 @@ Email: liyo0008@tamu.edu
 - [Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation](https://arxiv.org/abs/2510.17763)
 Y. Li
 - [Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation under even perturbations](https://arxiv.org/abs/2408.15427)
-Y. Li, J. Lührmann
+Y. Li, J. Lührmann\
+To appear in Forum of Math, Sigma
 - [Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance](https://link.springer.com/article/10.1007/s00526-024-02817-2)
 Y. Li\
 Calculus of Variations and Partial Differential Equations, **63** (2024), no. 206
 - [Quantum Monte Carlo Algorithm for Option Pricing and Its Complexity Analysis](https://doi.org/10.1111/mafi.70036)
-J. Chen, Y. Li, [A. Neufeld](https://personal.ntu.edu.sg/ariel.neufeld/)\
+[J. Chen](https://jianjun.site/), Y. Li, [A. Neufeld](https://personal.ntu.edu.sg/ariel.neufeld/)\
 Mathematical Finance, (2026)
 - [Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry](https://www.sciencedirect.com/science/article/pii/S0022039622006118)
 Y. Li, J. Lührmann\
 Journal of Differential Equations, **344** (2023), 172-202
 
 ## Teaching
+Georgia Tech
+- Fall 2026: Math 2551 Multivariable Calculus (Instructor)
+
 Texas A&M University
 - Summer 2026: Math 140 Mathematics for Business and Social Sciences (Instructor)
 - Spring 2026: Math 409 Analysis on the Real line (Grader)
@@ -40,26 +44,22 @@ Texas A&M University
 - Spring 2021: Math 308 Differential Equations (Grader)
 
 Nanyang Technological University 
-- Fall 2019: MH1802 Calculus for the sciences (Recitation)
+- Fall 2019: MH1802 Calculus for the Sciences (Recitation)
 
 ## Conference/Seminar Talks
-- Recent Developments in the Dynamics of Nonlinear PDEs, 3-7 August 2026
-- Georgia Southern University, Applied Math Physics Seminar, 23 April 2026
-- Georgia Tech, Elaine Hubbard PDE Seminar, 10 March 2026
-- UC Berkeley Harmonic Analysis and Differential Equations Seminar, 10 February 2026
+- AMS South Eastern Sectional Meeting, Kennesaw State University, 10 October 2026.
+- ICM Satellite Conference 2026 in PNW, University of Washington, 4 August 2026
+- Applied Math Physics Seminar (online), Georgia Southern University, 23 April 2026
+- Elaine Hubbard PDE Seminar, Georgia Tech, 10 March 2026
+- Harmonic Analysis and Differential Equations Seminar, UC Berkeley, 10 February 2026
 - Graduate seminar on Advanced topics in PDE, University of Bonn, 12 December 2025
 - Oberseminar Mathematical Physics and PDE, University of Cologne, 9 December 2025
-- Georgia Tech, Elaine Hubbard PDE Seminar, 18 November 2025 
+- Elaine Hubbard PDE Seminar (online), Georgia Tech, 18 November 2025 
 - Texas (Partial) Differential Equations Conference, University of Houston-Downtown, 8 March 2025
-- UMass Amherst Analysis Seminar, 4 November 2024
-- Brown-Yale Seminar, 2 November 2024
-- SIAM Conference Texas-Louisiana, 11-13 October 2024 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgdg48UmdOTR4HAPfSw?e=gyGrVk)
-- GIGEM, 20 April 2024
-- AMS Spring Southeastern Sectional Meeting, 23 March 2024 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgb8Juluxn_JReAASuQ?e=vrxbdn)
-- Texas Analysis and Mathematical Physics Symposium, 10 February 2024
-- Nonlinear PDEs Seminar, 31 October 2023 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgbET8C1SMpKISG5AVA?e=nhblUI)
-- Working seminar on microlocal analysis and nonlinear waves, 19 October 2023
-- Banach and Metric Space Geometry Working Seminar, 17 November 2022 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgZBdHDqhSxGMkUhWgg?e=qDXQc3)
-- Trends in Soliton Dynamics and Singularity Formation for Nonlinear Dispersive PDEs, 22 October 2022 [Slides](https://1drv.ms/b/s!AiuLen8IsPxCgY4mro-xUSo5BoGEYw?e=1e5quj)
-- Graduate Student Seminar, 13 October 2022
-- Dyadic Harmonic Analysis, 28 April 2022
+- Analysis Seminar, University of Massachusetts, Amherst, 4 November 2024
+- Brown-Yale Seminar, Brown University, 2 November 2024
+- SIAM Conference Texas-Louisiana, Baylor University, 11-13 October 2024 
+- AMS Spring Southeastern Sectional Meeting, Florida State University, 23 March 2024
+- Texas Analysis and Mathematical Physics Symposium, Texas A&M University, 10 February 2024
+- Nonlinear PDEs Seminar, Texas A&M University, 31 October 2023 
+- Trends in Soliton Dynamics and Singularity Formation for Nonlinear Dispersive PDEs, Texas A&M University, 22 October 2022
