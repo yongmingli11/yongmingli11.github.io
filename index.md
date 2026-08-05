@@ -4,7 +4,7 @@ I am a Hale Visiting Assistant Professor at Georgia Tech since Fall 2026. My pos
 
 My research interests are in Partial Differential Equations and Probability Theory.
 
-Email: liyo0008@tamu.edu
+Email: yli3349@gatech.edu, liyo0008@tamu.edu
 
 ## Publications & Preprints
 - [Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation](https://arxiv.org/abs/2510.17763)
