@@ -1,10 +1,12 @@
 ## About
 
-I am a Hale Visiting Assistant Professor at Georgia Tech since Fall 2026. My postdoc mentor is [Gong Chen](https://sites.google.com/site/cg66math). I received my Ph.D in mathematics from Texas A&M University, where my advisor was [Jonas Lührmann](https://www.mi.uni-koeln.de/luhrmann/).
+I have been a Hale Visiting Assistant Professor at Georgia Tech since Fall 2026. My postdoc mentor is [Gong Chen](https://sites.google.com/site/cg66math). I received my Ph.D in mathematics from Texas A&M University, where my advisor was [Jonas Lührmann](https://www.mi.uni-koeln.de/luhrmann/).
 
 My research interests are in Partial Differential Equations and Probability Theory.
 
-Email: yli3349@gatech.edu, liyo0008@tamu.edu
+Email: yli3349@gatech.edu
+
+Office: Skiles 127A
 
 ## Publications & Preprints
 - [Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation](https://arxiv.org/abs/2510.17763)
@@ -28,7 +30,7 @@ Georgia Tech
 
 Texas A&M University
 - Summer 2026: Math 140 Mathematics for Business and Social Sciences (Instructor)
-- Spring 2026: Math 409 Analysis on the Real line (Grader)
+- Spring 2026: Math 409 Analysis on the Real Line (Grader)
 - Fall 2025: Math 150 Functions, Trigonometry and Linear Systems (Recitation)
 - Spring 2025: Math 140 Mathematics for Business and Social Sciences (Instructor)
 - Fall 2024: Math 151 Engineering Mathematics I (Recitation)
