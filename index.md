@@ -9,18 +9,18 @@ Email: yli3349@gatech.edu
 Office: Skiles 127A
 
 ## Publications & Preprints
-- [Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation](https://arxiv.org/abs/2510.17763)
+- [Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation](https://arxiv.org/abs/2510.17763) \
 Y. Li
-- [Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation under even perturbations](https://doi.org/10.1017/fms.2026.10268)
+- [Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation under even perturbations](https://doi.org/10.1017/fms.2026.10268) \
 Y. Li, J. Lührmann\
 Forum of Mathematics, Sigma, **14** (2026), e125
-- [Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance](https://link.springer.com/article/10.1007/s00526-024-02817-2)
+- [Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance](https://link.springer.com/article/10.1007/s00526-024-02817-2) \
 Y. Li\
 Calculus of Variations and Partial Differential Equations, **63** (2024), no. 206
-- [Quantum Monte Carlo Algorithm for Option Pricing and Its Complexity Analysis](https://doi.org/10.1111/mafi.70036)
+- [Quantum Monte Carlo Algorithm for Option Pricing and Its Complexity Analysis](https://doi.org/10.1111/mafi.70036) \ 
 [J. Chen](https://jianjun.site/), Y. Li, [A. Neufeld](https://personal.ntu.edu.sg/ariel.neufeld/)\
 Mathematical Finance, (2026)
-- [Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry](https://www.sciencedirect.com/science/article/pii/S0022039622006118)
+- [Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry](https://www.sciencedirect.com/science/article/pii/S0022039622006118) \
 Y. Li, J. Lührmann\
 Journal of Differential Equations, **344** (2023), 172-202
 
